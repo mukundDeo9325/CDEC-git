@@ -1,1 +1,1 @@
-new adat added in file 
+this is new data in file2.txt its corrected 
